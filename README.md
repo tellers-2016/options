@@ -1,5 +1,5 @@
 
-# Equity Derivaties: Options
+# Equity Derivatives: Options
 
 ### Objective
 Students will be exposed to Equity Derivatives (Options) as a financial instrument and get an overview of the way they work and the various investment strategies that they are used for in the market place. They will be required to implement a python option payoff calculator that will calculate the return that an investor would receive for a set of option investment strategies.
